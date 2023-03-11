@@ -52,7 +52,7 @@ footer-links:
   weibo: u/7781153888 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: hanjunhui2012@qq.com #youremailaddress@mail.com
+  email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: hanjunhui2019 #https://github.com/<>
@@ -65,6 +65,7 @@ footer-links:
   twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
   gitee: hanjunhui2019
+  douyin: MS4wLjABAAAA19vTIbnfx7TcptTbM9mAoKks88EcVMgyr9wGGhbf-ADbYcxhaECZPOAv994Xj4Gi
 
 # 站点页脚的文字
 footer-text: 韩俊辉 二〇二三年 版权所有 
