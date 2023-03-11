@@ -50,7 +50,7 @@ excerpt_separator: <!-- more -->
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
   weibo: u/7781153888 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<>
+  behance: #https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
@@ -66,6 +66,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   gitee: hanjunhui2019
   douyin: MS4wLjABAAAA19vTIbnfx7TcptTbM9mAoKks88EcVMgyr9wGGhbf-ADbYcxhaECZPOAv994Xj4Gi
+  bilibili: 3493090660714839
 
 # 站点页脚的文字
 footer-text: 韩俊辉 二〇二三年 版权所有 
